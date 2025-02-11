@@ -56,7 +56,11 @@ The dataset consists of 46,181 labeled text samples collected from:
 
  This project detects whether a given text is human-written, AI-generated, or paraphrased using state-of-the-art NLP models. The model is deployed on Hugging Face Spaces, allowing anyone to use it without installation.
  
-🔗 Try the Live Demo Here:
+🔗 Try the Demo Here:
+👉 https://huggingface.co/spaces/Mohinikathro/AI-Content-Detector
 
-👉 
-
+### Contibutors
+- **Mohini Kathrotiya** 
+- **Vaidehi Patel**
+- **Omkar Aurangabadkar**
+- **Yash Balwir**
