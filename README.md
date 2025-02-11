@@ -58,5 +58,5 @@ The dataset consists of 46,181 labeled text samples collected from:
  
 🔗 Try the Live Demo Here:
 
-👉 AI Content Detector on Hugging Face Spaces (https://huggingface.co/spaces/vai0511/ai-content-classifier-app)
+👉 
 
